@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/minecrafttotem/fe-pp-roblix-script/main/Fe%20pp%20script%20(with%20netless)"))()
